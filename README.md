@@ -1,2 +1,2 @@
-# platform-resilency-docs
-Infrastructure Platform Resilency Technical Guidleline
+# platform-resiliency-docs
+Infrastructure Platform Resiliency Technical Guidleline
